@@ -54,6 +54,33 @@ def get_gif(ids):
             download_image(img_src, "../sdbs_dataset/sdbs_images/" + sdbs_no + ".gif")
         except Exception as e:
             print(e)
+            agreement_box = driver.find_element(by=By.CSS_SELECTOR, value=".DisclaimeraAcceptClass")
+            if agreement_box.is_displayed():
+                # scroll to the bottom of the page
+                print("Found agreement to accept")
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                sleep(1)
+                agreement_button = driver.find_element(by=By.CSS_SELECTOR, value=".DisclaimeraAcceptClass > input")
+                agreement_button.click()
+                print("Agreement accepted")
+
+            sdbs_no_text_box = driver.find_element(by=By.ID, value="BodyContentPlaceHolder_INP_sdbsno")
+            search_btn = driver.find_element(by=By.ID, value="BodyContentPlaceHolder_SearchButton")
+
+            sdbs_no_text_box.send_keys(sdbs_no)
+            search_btn.click()
+
+            ir_data_btn = driver.find_element(by=By.CSS_SELECTOR, value=".ir-val > a")
+            ir_data_btn.click()
+
+
+            driver.implicitly_wait(1)
+            img_element = driver.find_element(by=By.CSS_SELECTOR, value=".MainBody > div > img")
+            img_src = img_element.get_attribute("src")
+
+            print(sdbs_no, img_src)
+            download_image(img_src, "../sdbs_dataset/sdbs_images/" + sdbs_no + ".gif")
+
 
         driver.get(BASE_URL)
 
@@ -62,17 +89,21 @@ def get_gif(ids):
 
 if __name__ == "__main__":
     # get the number of cores in the system
-    cores = multiprocessing.cpu_count() - 1
-
+    # cores = multiprocessing.cpu_count() - 1
+    #
     ids = []
-    for i in range(cores):
-        ids.append([])
+    # for i in range(cores):
+    # #     ids.append([])
     ids_file = open("../sdbs_dataset/sdbs_ids.txt", "r")
 
     for i, id in enumerate(ids_file):
-        ids[i % cores].append(id.strip())
+        # ids[i % cores].append(id.strip())
+        ids.append(id.strip())
     ids_file.close()
 
-    for i in range(cores):
-        p = multiprocessing.Process(target=get_gif, args=(ids[i],))
-        p.start()
+    get_gif(ids)
+
+    # for i in range(cores):
+    #     p = multiprocessing.Process(target=get_gif, args=(ids[i],))
+    #     p.start()
+    
