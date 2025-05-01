@@ -16,9 +16,12 @@ To test and evaluate the model on the test set provided, run "python evaluation.
 
 To run entire project from scratch, the order of execution is:
 
+==== NOT PRESENT ====
 1. nist_scraper.py
 2. sdbs_scraper.py
+
 3. preprocessing.py
+    1. Convert GIF images to PNG (for sdbs)
 4. split_data.py
 5. data_augmentation.py
 6. hyperparameter_optimization.py
