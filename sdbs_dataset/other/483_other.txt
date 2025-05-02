@@ -1,0 +1,21 @@
+Subtitle: 1,1'-(1,8-naphthylene)bis(1H-1,2,3-triazole-4,5-dicarboxylic acid) tetra-tert-butyl ester
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 483
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=483
+Molecular Formula: C34H42N6O8
+Molecular Weight: 662.7
+InChI: InChI=1S/C34H42N6O8/c1-31(2,3)45-27(41)23-25(29(43)47-33(7,8)9)39(37-35-23)20-17-13-15-19-16-14-18-21(22(19)20)40-26(30(44)48-34(10,11)12)24(36-38-40)28(42)46-32(4,5)6/h13-18H,1-12H3
+InChIKey: WBOCSHILYZOZOG-UHFFFAOYSA-N
+RN: 91165-64-9
+Related pages: Mass SDBS-MS-NW-7321
+IR : KBr disc SDBS-IR-NIDA-34031
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

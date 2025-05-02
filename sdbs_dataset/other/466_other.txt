@@ -1,0 +1,22 @@
+Subtitle: 5-cholesten-3beta-yl nonyl carbonate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 466
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=466
+Molecular Formula: C37H64O3
+Molecular Weight: 556.9
+InChI: InChI=1S/C37H64O3/c1-7-8-9-10-11-12-13-25-39-35(38)40-30-21-23-36(5)29(26-30)17-18-31-33-20-19-32(28(4)16-14-15-27(2)3)37(33,6)24-22-34(31)36/h17,27-28,30-34H,7-16,18-26H2,1-6H3/t28-,30+,31+,32-,33+,34+,36+,37-/m1/s1
+InChIKey: CLVJSPXXNWCOJH-IATSNXCDSA-N
+RN: 15455-83-1
+Related pages: Mass SDBS-MS2001-00211WA
+IR : KBr disc SDBS-IR-NIDA-44727
+IR : nujol mull SDBS-IR-NIDA-45942
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

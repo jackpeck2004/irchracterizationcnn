@@ -1,4 +1,3 @@
-from logging import exception
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
@@ -142,7 +141,7 @@ def get_gif(ids, headless=False):
                         spectrum_links_to_download['nujol'] = True
                         print(f"Found nujol link for {sdbs_no}: {link_url}")
                     elif "IR : liquid" in link_text:
-                        spectrum_links_to_download['nujol'] = True
+                        spectrum_links_to_download['liquid'] = True
                         print(f"Found liquid link for {sdbs_no}: {link_url}")
 
 
@@ -164,30 +163,44 @@ def get_gif(ids, headless=False):
                     try:
 
                         print(f"Processing {medium} spectrum link for {sdbs_no}...")
-                        driver.get(base)
+                        # --- Find the specific link element AGAIN ---
+                        # (Necessary because we might have navigated away and back, or the DOM changed)
                         related_pages_elements = driver.find_elements(By.CSS_SELECTOR, "#RelatedpagesLink > a")
-                        # Find the link for the current medium
+                        found_link = False
                         for link_element in related_pages_elements:
                             link_text = link_element.text
-                            link_url = link_element.get_attribute('href')
-                            if f"IR : {medium}" in link_text:
-                                link_element.click()
-                                break
 
+                            if f"IR : {medium}" in link_text:
+                                print(f"Clicking link for {medium}...")
+                                link_element.click()
+                                found_link = True
+                                break
+                        if not found_link:
+                            print(f"Could not re-find link for {medium} on page {driver.current_url}. Skipping medium.")
+                            continue # Skip this medium
+
+                        # --- Wait briefly and handle agreement ---
+                        sleep(1) # Small pause for page transition initiated by click
                         try:
-                            agreement_button = driver.find_element(by=By.ID, value="UseSDBSButton")
-                            # print("Found agreement on spectrum page")
-                            ActionChains(driver).move_to_element(agreement_button).perform()
-                            agreement_button.click()
+                            # Use a short wait for the button to be clickable
+                            agreement_button = WebDriverWait(driver, 5).until(
+                                EC.element_to_be_clickable((By.ID, "UseSDBSButton"))
+                            )
+                            # print("Found agreement on spectrum page, clicking...")
+                            # Using ActionChains can sometimes be more reliable
+                            ActionChains(driver).move_to_element(agreement_button).click().perform()
+                            # print("Clicked agreement button.")
+                            sleep(0.5) # Pause after clicking agreement
                         except Exception:
-                            # Agreement not found or already accepted
+                            # Agreement not found, already accepted, or timed out - proceed
+                            # print("Agreement button not found or not needed.")
                             pass
-                        
-                        # Download image
-                        wait = WebDriverWait(driver, 10) # Wait up to 10 seconds
+
+                        # --- Wait for and download image ---
+                        wait = WebDriverWait(driver, 15) # Increased wait time for image
+                        # print(f"Waiting for image element for {medium}...")
                         img_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".MainBody > div > img")))
-                        # driver.implicitly_wait(2) # Implicit wait might be less reliable here
-                        # img_element = driver.find_element(by=By.CSS_SELECTOR, value=".MainBody > div > img")
+
                         img_src = img_element.get_attribute("src")
 
                         print(f"Downloading {medium} image for {sdbs_no} from {img_src}")
@@ -197,13 +210,19 @@ def get_gif(ids, headless=False):
                         sleep(0.5) # Small delay between downloads
 
                     except Exception as img_ex:
-                        print(f"Error downloading {medium} image for {sdbs_no}: {img_ex}")
+                        print(f"Error processing {medium} spectrum for {sdbs_no}: {img_ex}")
                         # Optionally remove the failed output path if it was partially created
                         if output_path.exists():
                             try:
                                 os.remove(output_path)
                             except OSError as rm_err:
                                 print(f"Error removing potentially incomplete file {output_path}: {rm_err}")
+                    finally:
+                        # --- Navigate back to base page BEFORE next medium ---
+                        # Ensures we start from the compound page for the next medium type
+                        print(f"Returning to base page for {sdbs_no} after attempting {medium}.")
+                        driver.get(base)
+                        sleep(1) # Allow base page to load before next medium loop iteration
 
 
                 # Check if all required images were downloaded (or already existed)
