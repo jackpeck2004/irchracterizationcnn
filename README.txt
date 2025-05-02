@@ -21,8 +21,23 @@ To run entire project from scratch, the order of execution is:
 2. sdbs_scraper.py
 
 3. preprocessing.py
-    1. Convert GIF images to PNG (for sdbs)
-4. split_data.py
+    -> Convert GIF images to PNG (for sdbs)
+    -> SDBS:
+        - Each file gets saved in the following format: {sdbs_id}_{medium_of_spectra}.gif 
+            * medium_of_spectra can be liquid, nujol or KBr
+            * have one .gif file for each of these
+        - Confert .gif to .PNG 
+        - Store metadata of compound inside other/{sdbs_id_}_{others}
+            * This contains InChi identifier (most important) and basically everything else
+        - Format pictures into same-sized frames
+    -> NIST:
+        - Each file gets saved in the format of {nist_id}_.jdx
+            * .jdx file format contains spectroscopy data in binaries
+            * last '_' is really important!
+        - Another .inchi file that keeps track of each InChi identifier for each compound
+            * Stored inside {nist_inchi_path}/{nist_id}.inchi
+    -> They then all get transformed to .csv datasets
+4. split_data.py2
 5. data_augmentation.py
 6. hyperparameter_optimization.py
 7. train_model.py
