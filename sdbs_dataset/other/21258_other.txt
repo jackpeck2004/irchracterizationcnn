@@ -1,0 +1,21 @@
+Subtitle: C.I. mordant brown 33
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 21258
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=21258
+Molecular Formula: C12H10N5NaO6S
+Molecular Weight: 375.3
+InChI: InChI=1S/C12H11N5O6S.Na/c13-7-4-8(14)12(24(21,22)23)5-9(7)15-16-10-3-6(17(19)20)1-2-11(10)18;/h1-5H,(H6-,13,14,15,16,18,19,20,21,22,23);/q;+1
+InChIKey: GOEDWPSIDNRMNL-UHFFFAOYSA-N
+RN: 3618-62-0
+Related pages: IR : KBr disc SDBS-IR-NIDA-27711
+IR : nujol mull SDBS-IR-NIDA-28746
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

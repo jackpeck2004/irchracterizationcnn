@@ -1,0 +1,24 @@
+Subtitle: 21-(3-carboxypropionyloxy)-11beta,17-dihydroxy-1,4-pregnadiene-3,20-dione
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 14011
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=14011
+Molecular Formula: C25H32O8
+Molecular Weight: 460.5
+InChI: InChI=1S/C25H32O8/c1-23-9-7-15(26)11-14(23)3-4-16-17-8-10-25(32,24(17,2)12-18(27)22(16)23)19(28)13-33-21(31)6-5-20(29)30/h7,9,11,16-18,22,27,32H,3-6,8,10,12-13H2,1-2H3,(H,29,30)/t16-,17-,18-,22+,23-,24-,25-/m0/s1
+InChIKey: APGDTXUMTIZLCJ-CGVGKPPMSA-N
+RN: 2920-86-7
+Related pages: Mass SDBS-MS-IW-3432
+13C NMR SDBS-NMR-CDS-08-283
+1H NMR SDBS-NMR-HSP-43-168
+IR : nujol mull SDBS-IR-NIDA-60971
+IR : KBr disc SDBS-IR-NIDA-60995
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

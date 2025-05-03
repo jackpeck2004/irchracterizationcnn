@@ -1,0 +1,23 @@
+Subtitle: p-(dichloromethyl)fluorobenzene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 19195
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=19195
+Molecular Formula: C7H5Cl2F
+Molecular Weight: 179.0
+InChI: InChI=1S/C7H5Cl2F/c8-7(9)5-1-3-6(10)4-2-5/h1-4,7H
+InChIKey: MFIOEEWGBMJNGG-UHFFFAOYSA-N
+RN: 456-19-9
+Related pages: Mass SDBS-MS-IW-4188
+13C NMR SDBS-NMR-CDS-11-217
+1H NMR SDBS-NMR-HSP-44-642
+IR : liquid film SDBS-IR-NIDA-62668
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

@@ -1,0 +1,23 @@
+Subtitle: 9-fluoro-11beta,17,21-trihydroxy-16beta-methyl-1,4-pregnadiene-3,20-dione 17,21-dipropionate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 14012
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=14012
+Molecular Formula: C28H37FO7
+Molecular Weight: 504.6
+InChI: InChI=1S/C28H37FO7/c1-6-23(33)35-15-22(32)28(36-24(34)7-2)16(3)12-20-19-9-8-17-13-18(30)10-11-25(17,4)27(19,29)21(31)14-26(20,28)5/h10-11,13,16,19-21,31H,6-9,12,14-15H2,1-5H3/t16-,19-,20-,21-,25-,26-,27-,28-/m0/s1
+InChIKey: CIWBQSYVNNPZIQ-XYWKZLDCSA-N
+RN: 5593-20-4
+Related pages: Mass SDBS-MS2014-05023CW
+13C NMR SDBS-NMR-CDS-08-284
+IR : nujol mull SDBS-IR-NIDA-60973
+IR : KBr disc SDBS-IR-NIDA-61122
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

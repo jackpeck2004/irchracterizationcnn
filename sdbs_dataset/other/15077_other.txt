@@ -1,0 +1,23 @@
+Subtitle: 2,2'-azinobis(3-ethyl-2,3-dihydro-6-benzothiazolesulfonic acid) diammonium salt
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 15077
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=15077
+Molecular Formula: C18H24N6O6S4
+Molecular Weight: 548.7
+InChI: InChI=1S/C18H16N6O6S4/c1-3-23-13-7-5-11(33(25,26)29-19)9-15(13)31-17(23)21-22-18-24(4-2)14-8-6-12(10-16(14)32-18)34(27,28)30-20/h5-10H,3-4H2,1-2H3/q+2/b21-17-,22-18-
+InChIKey: YOODNNVRCQQOHT-SVJWQLCWSA-N
+RN: 30931-67-0
+Related pages: Mass SDBS-MS-NW-9272
+13C NMR SDBS-NMR-CDS-11-352
+IR : KBr disc SDBS-IR-NIDA-23168
+IR : nujol mull SDBS-IR-NIDA-71855
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

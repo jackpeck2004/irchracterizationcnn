@@ -1,0 +1,22 @@
+Subtitle: cholesteryl hydrogen succinate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 7795
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=7795
+Molecular Formula: C31H50O4
+Molecular Weight: 486.7
+InChI: InChI=1S/C31H50O4/c1-20(2)7-6-8-21(3)25-11-12-26-24-10-9-22-19-23(35-29(34)14-13-28(32)33)15-17-30(22,4)27(24)16-18-31(25,26)5/h9,20-21,23-27H,6-8,10-19H2,1-5H3,(H,32,33)/t21-,23+,24+,25-,26+,27+,30+,31-/m1/s1
+InChIKey: WLNARFZDISHUGS-MIXBDBMTSA-N
+RN: 1510-21-0
+Related pages: 13C NMR SDBS-NMR-CDS-10-232
+1H NMR SDBS-NMR-HSP-40-685
+IR : KBr disc SDBS-IR-NIDA-13314
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

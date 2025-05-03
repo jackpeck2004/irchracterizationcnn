@@ -1,0 +1,25 @@
+Subtitle: 1,2,3-propanetriyl tristearate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 1251
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=1251
+Molecular Formula: C57H110O6
+Molecular Weight: 891.5
+InChI: InChI=1S/C57H110O6/c1-4-7-10-13-16-19-22-25-28-31-34-37-40-43-46-49-55(58)61-52-54(63-57(60)51-48-45-42-39-36-33-30-27-24-21-18-15-12-9-6-3)53-62-56(59)50-47-44-41-38-35-32-29-26-23-20-17-14-11-8-5-2/h54H,4-53H2,1-3H3
+InChIKey: DCXXMTOCNZCJGO-UHFFFAOYSA-N
+RN: 555-43-1
+Related pages: Mass SDBS-MS-NW-0609
+13C NMR SDBS-NMR-CDS-08-370
+1H NMR SDBS-NMR-HSP-44-553
+IR : CCl4 solution SDBS-IR-NIDA-06792
+IR : nujol mull SDBS-IR-NIDA-11533
+IR : KBr disc SDBS-IR-NIDA-21917
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

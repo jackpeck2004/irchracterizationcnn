@@ -1,0 +1,24 @@
+Subtitle: tris(2-ethylhexyl) phosphate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 2904
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=2904
+Molecular Formula: C24H51O4P
+Molecular Weight: 434.6
+InChI: InChI=1S/C24H51O4P/c1-7-13-16-22(10-4)19-26-29(25,27-20-23(11-5)17-14-8-2)28-21-24(12-6)18-15-9-3/h22-24H,7-21H2,1-6H3
+InChIKey: GTVWRXDRKAHEAD-UHFFFAOYSA-N
+RN: 78-42-2
+Related pages: Mass SDBS-MS-NW-1786
+13C NMR SDBS-NMR-CDS-03-564
+1H NMR SDBS-NMR-HSP-46-641
+IR : CCl4 solution SDBS-IR-NIDA-07018
+IR : liquid film SDBS-IR-NIDA-36992
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

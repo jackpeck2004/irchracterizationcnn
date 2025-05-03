@@ -1,0 +1,25 @@
+Subtitle: inosine
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 1173
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=1173
+Molecular Formula: C10H12N4O5
+Molecular Weight: 268.2
+InChI: InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6-,7-,10-/m1/s1
+InChIKey: UGQMRVRMYYASKQ-KQYNXXCUSA-N
+RN: 58-63-9
+Related pages: Mass SDBS-MS-NW-2579
+13C NMR SDBS-NMR-CDS-05-215
+13C NMR SDBS-NMR-CDS-11-781
+1H NMR SDBS-NMR-HSP-46-581
+IR : KBr disc SDBS-IR-NIDA-03953
+IR : nujol mull SDBS-IR-NIDA-09522
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

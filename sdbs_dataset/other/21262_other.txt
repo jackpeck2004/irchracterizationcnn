@@ -1,0 +1,24 @@
+Subtitle: C.I. direct red 81
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 21262
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=21262
+Molecular Formula: C29H19N5Na2O8S2
+Molecular Weight: 675.6
+InChI: InChI=1S/C29H21N5O8S2.2Na/c35-28-25-15-12-23(30-29(36)18-4-2-1-3-5-18)16-19(25)17-26(44(40,41)42)27(28)34-33-21-8-6-20(7-9-21)31-32-22-10-13-24(14-11-22)43(37,38)39;;/h1-17,35H,(H,30,36)(H,37,38,39)(H,40,41,42);;/q;2*+1/p-2/b32-31+,34-33+;;
+InChIKey: UFUQRRYHIHJMPB-DUCFOALUSA-L
+RN: 2610-11-9
+Related pages: 13C NMR SDBS-NMR-CDS-01-349
+1H NMR SDBS-NMR-HSP-42-683
+1H NMR SDBS-NMR-HSP-48-605
+IR : KBr disc SDBS-IR-NIDA-28107
+IR : nujol mull SDBS-IR-NIDA-68154
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

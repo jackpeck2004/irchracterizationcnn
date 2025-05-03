@@ -1,0 +1,26 @@
+Subtitle: 2-(p-tolyloxy)ethanol
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 11069
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=11069
+Molecular Formula: C9H12O2
+Molecular Weight: 152.2
+InChI: InChI=1S/C9H12O2/c1-8-2-4-9(5-3-8)11-7-6-10/h2-5,10H,6-7H2,1H3
+InChIKey: FFWXHQFJNOGDJE-UHFFFAOYSA-N
+RN: 15149-10-7
+Related pages: Mass SDBS-MS-NW-2386
+13C NMR SDBS-NMR-CDS-04-337
+1H NMR SDBS-NMR-HSP-00-870
+IR : KBr disc SDBS-IR-NIDA-05308
+IR : CCl4 solution SDBS-IR-NIDA-08446
+IR : nujol mull SDBS-IR-NIDA-14198
+Raman SDBS-RM-01-02870
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

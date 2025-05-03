@@ -1,0 +1,22 @@
+Subtitle: N-(5-dimethylamino-1-naphthylsulfonyl)-L-phenylalanine
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 5854
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=5854
+Molecular Formula: C21H22N2O4S
+Molecular Weight: 398.5
+InChI: InChI=1S/C21H22N2O4S/c1-23(2)19-12-6-11-17-16(19)10-7-13-20(17)28(26,27)22-18(21(24)25)14-15-8-4-3-5-9-15/h3-13,18,22H,14H2,1-2H3,(H,24,25)/t18-/m0/s1
+InChIKey: GPIOGTIFRDHWSB-SFHVURJKSA-N
+RN: 1104-36-5
+Related pages: Mass SDBS-MS-NW-3021
+IR : nujol mull SDBS-IR-NIDA-29683
+IR : KBr disc SDBS-IR-NIDA-30080
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

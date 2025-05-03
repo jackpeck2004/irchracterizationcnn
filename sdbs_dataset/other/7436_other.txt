@@ -1,0 +1,24 @@
+Subtitle: cis-3-hexenyl cinnamate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 7436
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=7436
+Molecular Formula: C15H18O2
+Molecular Weight: 230.3
+InChI: InChI=1S/C15H18O2/c1-2-3-4-8-13-17-15(16)12-11-14-9-6-5-7-10-14/h3-7,9-12H,2,8,13H2,1H3/b4-3-,12-11+
+InChIKey: FKWGVMQNGUQXDN-FECXASIGSA-N
+RN: 68133-75-5
+Related pages: Mass SDBS-MS-NW-5223
+13C NMR SDBS-NMR-CDS-05-935
+1H NMR SDBS-NMR-HSP-02-059
+IR : liquid film SDBS-IR-NIDA-20651
+Raman SDBS-RM-01-03078
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

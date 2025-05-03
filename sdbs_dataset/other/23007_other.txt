@@ -1,0 +1,22 @@
+Subtitle: ethyl 5-acetyl-2-(benzyloxy)benzoate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 23007
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=23007
+Molecular Formula: C18H18O4
+Molecular Weight: 298.3
+InChI: InChI=1S/C18H18O4/c1-3-21-18(20)16-11-15(13(2)19)9-10-17(16)22-12-14-7-5-4-6-8-14/h4-11H,3,12H2,1-2H3
+InChIKey: XYYPNTNMOUPRLG-UHFFFAOYSA-N
+RN: 60561-28-6
+Related pages: Mass SDBS-MS-IW-1521
+IR : nujol mull SDBS-IR-NIDA-34597
+IR : KBr disc SDBS-IR-NIDA-34632
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

@@ -1,0 +1,24 @@
+Subtitle: cholesteryl propionate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 7791
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=7791
+Molecular Formula: C30H50O2
+Molecular Weight: 442.7
+InChI: InChI=1S/C30H50O2/c1-7-28(31)32-23-15-17-29(5)22(19-23)11-12-24-26-14-13-25(21(4)10-8-9-20(2)3)30(26,6)18-16-27(24)29/h11,20-21,23-27H,7-10,12-19H2,1-6H3/t21-,23+,24+,25-,26+,27+,29+,30-/m1/s1
+InChIKey: CCORPVHYPHHRKB-NXUCFJMCSA-N
+RN: 633-31-8
+Related pages: Mass SDBS-MS2003-01589WA
+13C NMR SDBS-NMR-CDS-07-273
+1H NMR SDBS-NMR-HSP-40-687
+IR : KBr disc SDBS-IR-NIDA-65833
+IR : nujol mull SDBS-IR-NIDA-66787
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

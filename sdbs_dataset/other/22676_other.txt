@@ -1,0 +1,21 @@
+Subtitle: C.I. direct yellow 27
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 22676
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=22676
+Molecular Formula: C25H20N4Na2O9S3
+Molecular Weight: 662.6
+InChI: InChI=1S/C25H22N4O9S3.2Na/c1-13-8-10-18-22(23(13)41(35,36)37)39-25(27-18)15-9-11-17(20(12-15)40(32,33)34)28-29-21(14(2)30)24(31)26-16-6-4-5-7-19(16)38-3;;/h4-12,21H,1-3H3,(H,26,31)(H,32,33,34)(H,35,36,37);;/q;2*+1/p-2/b29-28+;;
+InChIKey: WLDNGJFRVWQASY-NTDCDQSISA-L
+RN: 10190-68-8
+Related pages: IR : KBr disc SDBS-IR-NIDA-27091
+IR : nujol mull SDBS-IR-NIDA-67899
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

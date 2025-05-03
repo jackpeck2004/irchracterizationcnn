@@ -1,0 +1,23 @@
+Subtitle: Congo Red
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 7801
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=7801
+Molecular Formula: C32H22N6Na2O6S2
+Molecular Weight: 696.7
+InChI: InChI=1S/C32H24N6O6S2.2Na/c33-31-25-7-3-1-5-23(25)29(45(39,40)41)17-27(31)37-35-21-13-9-19(10-14-21)20-11-15-22(16-12-20)36-38-28-18-30(46(42,43)44)24-6-2-4-8-26(24)32(28)34;;/h1-18H,33-34H2,(H,39,40,41)(H,42,43,44);;/q;2*+1/p-2/b37-35+,38-36+;;
+InChIKey: IQFVPQOLBLOTPF-HKXUKFGYSA-L
+RN: 573-58-0
+Related pages: 13C NMR SDBS-NMR-CDS-10-939
+1H NMR SDBS-NMR-HSP-48-400
+IR : KBr disc SDBS-IR-NIDA-22629
+IR : nujol mull SDBS-IR-NIDA-25333
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

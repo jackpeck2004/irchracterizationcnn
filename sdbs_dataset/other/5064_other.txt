@@ -1,0 +1,22 @@
+Subtitle: Dimethylsulfonazo III
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 5064
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=5064
+Molecular Formula: C24H20N4O14S4 (H2O)
+Molecular Weight: 716.7
+InChI: InChI=1S/C24H20N4O14S4/c1-11-3-5-14(16(7-11)43(31,32)33)25-27-21-18(45(37,38)39)9-13-10-19(46(40,41)42)22(24(30)20(13)23(21)29)28-26-15-6-4-12(2)8-17(15)44(34,35)36/h3-10,29-30H,1-2H3,(H,31,32,33)(H,34,35,36)(H,37,38,39)(H,40,41,42)/b27-25+,28-26+
+InChIKey: KVJXQZRHQQUTSM-NBHCHVEOSA-N
+RN: 14979-11-4
+Related pages: 13C NMR SDBS-NMR-CDS-01-027
+1H NMR SDBS-NMR-HSP-46-338
+IR : KBr disc SDBS-IR-NIDA-05710
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

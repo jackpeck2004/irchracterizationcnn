@@ -1,0 +1,22 @@
+Subtitle: trans,trans-1,1'-(m-phenylene)bis(3-(p-(methylthio)phenyl)-2-propen-1-one)
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 11671
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=11671
+Molecular Formula: C26H22O2S2
+Molecular Weight: 430.6
+InChI: InChI=1S/C26H22O2S2/c1-29-23-12-6-19(7-13-23)10-16-25(27)21-4-3-5-22(18-21)26(28)17-11-20-8-14-24(30-2)15-9-20/h3-18H,1-2H3/b16-10+,17-11+
+InChIKey: YHJBAASFVOGSNG-OTYYAQKOSA-N
+RN: 
+Related pages: Mass SDBS-MS-IW-1416
+13C NMR SDBS-NMR-CDS-09-066
+IR : liquid film SDBS-IR-NIDA-54838
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

@@ -1,0 +1,23 @@
+Subtitle: 9,10-diphenylanthracene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 2490
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=2490
+Molecular Formula: C26H18
+Molecular Weight: 330.4
+InChI: InChI=1S/C26H18/c1-3-11-19(12-4-1)25-21-15-7-9-17-23(21)26(20-13-5-2-6-14-20)24-18-10-8-16-22(24)25/h1-18H
+InChIKey: FCNCGHJSNVOIKE-UHFFFAOYSA-N
+RN: 1499-10-1
+Related pages: Mass SDBS-MS-NW-8570
+13C NMR SDBS-NMR-CDS-00-797
+1H NMR SDBS-NMR-HSP-49-582
+IR : KBr disc SDBS-IR-NIDA-00659
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

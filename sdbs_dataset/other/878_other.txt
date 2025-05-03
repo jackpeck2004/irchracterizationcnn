@@ -1,0 +1,28 @@
+Subtitle: pyrene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 878
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=878
+Molecular Formula: C16H10
+Molecular Weight: 202.2
+InChI: InChI=1S/C16H10/c1-3-11-7-9-13-5-2-6-14-10-8-12(4-1)15(11)16(13)14/h1-10H
+InChIKey: BBEAQIROQSPTKN-UHFFFAOYSA-N
+RN: 129-00-0
+Related pages: Mass SDBS-MS2014-05112CW
+13C NMR SDBS-NMR-CDS-00-308
+13C NMR SDBS-CR2015-03120NS
+1H NMR SDBS-NMR-HSP-40-200
+1H NMR SDBS-HR2015-03120NS
+IR : KBr disc SDBS-IR-NIDA-63106
+IR : nujol mull SDBS-IR-NIDA-64549
+ESR SDBS-ESR-0057
+ESR SDBS-ESR-0156
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

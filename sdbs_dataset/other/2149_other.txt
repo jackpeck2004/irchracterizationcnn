@@ -1,0 +1,35 @@
+Subtitle: 2-propanol
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 2149
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=2149
+Molecular Formula: C3H8O
+Molecular Weight: 60.1
+InChI: InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3
+InChIKey: KFZMGEQAYNKOFK-UHFFFAOYSA-N
+RN: 67-63-0
+Related pages: Mass SDBS-MS-NW-1499
+13C NMR SDBS-NMR-CDS-00-521
+13C NMR SDBS-CR2014-02984NS
+13C NMR SDBS-CR2014-02993NS
+13C NMR SDBS-CR2014-03010NS
+13C NMR SDBS-CR2014-03024NS
+1H NMR SDBS-NMR-HSP-03-214
+1H NMR SDBS-HR2014-02984NS
+1H NMR SDBS-HR2014-02993NS
+1H NMR SDBS-HR2014-03010NS
+1H NMR SDBS-HR2014-03024NS
+IR : liquid film SDBS-IR-NIDA-03326
+Raman SDBS-RM-01-00029
+ESR SDBS-ESR-0485
+ESR SDBS-ESR-0486
+ESR SDBS-ESR-5062
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

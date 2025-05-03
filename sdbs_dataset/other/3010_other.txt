@@ -1,0 +1,23 @@
+Subtitle: quercitrin
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 3010
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=3010
+Molecular Formula: C21H20O11
+Molecular Weight: 448.4
+InChI: InChI=1S/C21H20O11/c1-7-15(26)17(28)18(29)21(30-7)32-20-16(27)14-12(25)5-9(22)6-13(14)31-19(20)8-2-3-10(23)11(24)4-8/h2-7,15,17-18,21-26,28-29H,1H3/t7-,15-,17+,18+,21-/m0/s1
+InChIKey: OXGUCUVFOIWWQJ-HQBVPOQASA-N
+RN: 522-12-3
+Related pages: 13C NMR SDBS-NMR-CDS-01-327
+1H NMR SDBS-NMR-HSP-42-554
+IR : KBr disc SDBS-IR-NIDA-08795
+IR : nujol mull SDBS-IR-NIDA-11850
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

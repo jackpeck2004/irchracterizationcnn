@@ -1,0 +1,24 @@
+Subtitle: 3,3'-(ethylenedioxy)dipropionitrile
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 10172
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=10172
+Molecular Formula: C8H12N2O2
+Molecular Weight: 168.2
+InChI: InChI=1S/C8H12N2O2/c9-3-1-5-11-7-8-12-6-2-4-10/h1-2,5-8H2
+InChIKey: VTHRQKSLPFJQHN-UHFFFAOYSA-N
+RN: 3386-87-6
+Related pages: Mass SDBS-MS-NW-1107
+13C NMR SDBS-NMR-CDS-03-995
+1H NMR SDBS-NMR-HSP-00-456
+IR : liquid film SDBS-IR-NIDA-02363
+IR : CCl4 solution SDBS-IR-NIDA-07273
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

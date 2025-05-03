@@ -1,0 +1,24 @@
+Subtitle: N,N'-dibutylthiourea
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 6581
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=6581
+Molecular Formula: C9H20N2S
+Molecular Weight: 188.3
+InChI: InChI=1S/C9H20N2S/c1-3-5-7-10-9(12)11-8-6-4-2/h3-8H2,1-2H3,(H2,10,11,12)
+InChIKey: KFFQABQEJATQAT-UHFFFAOYSA-N
+RN: 109-46-6
+Related pages: Mass SDBS-MS-NW-4247
+13C NMR SDBS-NMR-CDS-04-771
+1H NMR SDBS-NMR-HSP-01-544
+IR : KBr disc SDBS-IR-NIDA-56167
+IR : nujol mull SDBS-IR-NIDA-57359
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)
