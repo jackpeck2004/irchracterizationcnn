@@ -77,10 +77,59 @@ To run entire project from scratch, the order of execution is:
 		- same for y
 
 6. hyperparameter_optimization.py
+    -> Performs Bayesian optimization of CNN hyper-parameters using Gaussian Process minimization (skopt)
+    -> Defines the search space for eight parameters:
+        - num_dense_layers: number of dense layers (1–4)
+        - num_filters: number of filters in the first Conv1D layer (4–32)- dense_divisor: factor to reduce dense nodes after each layer (0.25–0.8)
+        - num_cnn_layers: total Conv1D layers (1–5)- dropout: dropout rate between dense layers (0–0.5)- batch_size: training batch size (8–512)
+        - kernel_size: size of the convolutional kernel (2–12)- num_dense_nodes: nodes in the first dense layer (1000–5000)
+    -> Loads processed data from processed_dataset.pickle, then:
+        - Drops metadata columns from X_train_1, X_val_1, X_test, y_train_1, y_val_1, y_test
+        - Reshapes inputs to (n_samples, 600, 1)
+    -> Implements create_model(...) to build a Keras Functional CNN given hyper-parameters:
+        - Stacks specified number of Conv1D + BatchNorm + ReLU + MaxPooling1D layers, doubling filters each time
+        - Flattens output, then adds ordered dense layers with dropout and divisor-based node reduction
+        - Final sigmoid output for multilabel classification-> Defines a custom Metrics callback to compute micro F1, precision, and recall on validation set after each epoch
+    -> Uses fitness(...) as the objective for gp_minimize:
+        - Trains each candidate model with EarlyStopping, ReduceLROnPlateau, ModelCheckpoint, and Metrics
+        - Records validation loss, stopping epochs, and model names via CheckpointSaver
+    -> Runs 50 optimization calls in parallel (n_jobs=-1), then aggregates results into searched_parameters.pkl and searched_parameters.csv
+
 7. train_model.py
-8. train_weighted_model.py (switch environment2.yml)
-9. optimal_threshold.py (switch back to environment.yml)
+    -> Trains the final CNN model using the best hyper-parameters found
+    -> Defines train_model(X_train_val, y_train_val, num_fgs, aug, num, weighted):
+        - Reshapes X_train_val to (n_samples, 600, 1)
+        - Builds a fixed architecture:* Conv1D (31 filters, kernel=11) + BatchNorm + ReLU + MaxPooling1D* Conv1D (62 filters, kernel=11) + BatchNorm + ReLU + MaxPooling1D* Flatten* Dense(4927) + ReLU + Dropout(0.486)* Dense(2785) + ReLU + Dropout(0.486)* Dense(1574) + ReLU + Dropout(0.486)* Output Dense(num_fgs) + Sigmoid
+        - If weighted == 1, computes class weights from y_train_val to balance positive/negative classes, and applies a custom weighted binary cross-entropy loss
+        - Otherwise uses standard binary cross-entropy
+        - Sets up a three-stage LearningRateScheduler for epochs 0–30, 31–36, and 37–41
+        - Trains for 41 epochs with batch size 41
+        - Saves the model under ./models/ with filename pattern {num}_model_{aug}.h5
+    -> In __main__:- Loads combined training+validation data from processed_dataset.pickle
+        - Trains the extended (aug='e') and original (aug='o') models- Loads augmented datasets from augmented_dataset.pickle and iterates over oversampling levels (25%, 50%, 75%, 100%) to train control ('c'), horizontal ('h'), vertical ('v'), and linear-combination ('lc') models
+
+8. train_weighted_model.py
+    -> Wrapper script to train the weighted CNN model with the optimal settings
+    -> Imports train_model from train_model.py-> Loads processed data, concatenates X_train_1 & X_val_1 (excluding metadata columns) into X_train_val and y_train_val
+    -> Calls train_model(X_train_val, y_train_val, 37, 'w', 0, weighted=1) to fit the weighted-loss model
+
+9.optimal_thresholding.py
+    -> Calculates the optimal probability threshold for each functional group to maximize F1-score
+    -> Defines optimal_threshold(X_train_val, y_train_val):- Reshapes inputs to (n_samples, 600, 1)
+        - Loads the extended model from ../models/0_model_extended.h5- Predicts probabilities on X_train_val
+        - For each of the 37 classes:* Computes precision–recall curve and average precision* Calculates F1-score at each threshold and selects the threshold with highest F1
+        - Returns a dict mapping each class index to its optimal threshold-> In __main__, loads data and invokes optimal_threshold(...)
+
 10. evaluation.py
+    -> Provides comprehensive evaluation metrics for a trained model
+    -> Key functions:- model_predict(...): applies either fixed (0.5) or optimal thresholds to predicted probabilities
+        - f_score(...): computes per-group F1-score, precision, recall, and orders functional groups by performance
+        - emr_fgs(...): calculates non-accumulative and accumulative exact match rates (EMR) based on number of functional groups per sample
+        - emr_class(...): computes accumulative EMR as classes are added in order of descending frequency- accuracy(...): measures accuracy for presence vs. absence of each group, and overall positive/negative class balance
+        - avg_precision(...): computes average precision for each functional group
+    -> In the main block:- Loads data and extended model
+        - Computes optimal thresholds, makes predictions, and prints tables for F1-scores, EMRs, average precision, and presence/absence accuracies
+
 
 ============= SCRIPTS ============
 
