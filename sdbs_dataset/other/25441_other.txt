@@ -1,0 +1,21 @@
+Subtitle: 1'-benzyl-1-methyl-2'-phenyl-5',6',7',8'-tetrahydrospiro(indoline-3,4'(1'H)-quinolin)-2-one
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 25441
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=25441
+Molecular Formula: C30H28N2O
+Molecular Weight: 432.5
+InChI: InChI=1S/C30H28N2O/c1-31-26-18-10-8-16-24(26)30(29(31)33)20-28(23-14-6-3-7-15-23)32(21-22-12-4-2-5-13-22)27-19-11-9-17-25(27)30/h2-8,10,12-16,18,20H,9,11,17,19,21H2,1H3
+InChIKey: UEBBMMMVGVZSNN-UHFFFAOYSA-N
+RN: 28561-38-8
+Related pages: Mass SDBS-MS-IW-2084
+IR : KBr disc SDBS-IR-NIDA-33652
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

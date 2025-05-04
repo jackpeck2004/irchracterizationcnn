@@ -1,0 +1,22 @@
+Subtitle: diethyl 4-(4-acetoxy-3-methoxyphenyl)-2,6-dimethyl-1,4-dihydro-3,5-pyridinedicarboxylate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 35459
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=35459
+Molecular Formula: C22H27NO7
+Molecular Weight: 417.4
+InChI: InChI=1S/C22H27NO7/c1-7-28-21(25)18-12(3)23-13(4)19(22(26)29-8-2)20(18)15-9-10-16(30-14(5)24)17(11-15)27-6/h9-11,20,23H,7-8H2,1-6H3
+InChIKey: HCWZKLJUXBTKSO-UHFFFAOYSA-N
+RN: 
+Related pages: Mass SDBS-MS-IW-4735
+IR : KBr disc SDBS-IR-NIDA-55519
+IR : nujol mull SDBS-IR-NIDA-57206
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

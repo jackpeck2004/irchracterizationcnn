@@ -1,0 +1,22 @@
+Subtitle: 7-benzyloxy-3-phenyl-4H-chromen-4-one
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 34462
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=34462
+Molecular Formula: C22H16O3
+Molecular Weight: 328.3
+InChI: InChI=1S/C22H16O3/c23-22-19-12-11-18(24-14-16-7-3-1-4-8-16)13-21(19)25-15-20(22)17-9-5-2-6-10-17/h1-13,15H,14H2
+InChIKey: SONUPOLJPZNSOW-UHFFFAOYSA-N
+RN: 4253-05-8
+Related pages: Mass SDBS-MS-IW-3259
+IR : KBr disc SDBS-IR-NIDA-53795
+IR : nujol mull SDBS-IR-NIDA-54925
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

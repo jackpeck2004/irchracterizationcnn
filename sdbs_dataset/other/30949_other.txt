@@ -1,0 +1,22 @@
+Subtitle: 3,3,10,10-tetramethyldispiro[5.0.5.1]tridecane-1,5,8,12-tetrone
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 30949
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=30949
+Molecular Formula: C17H22O4
+Molecular Weight: 290.3
+InChI: InChI=1S/C17H22O4/c1-14(2)5-10(18)16(11(19)6-14)9-17(16)12(20)7-15(3,4)8-13(17)21/h5-9H2,1-4H3
+InChIKey: UAAYAAVPYLETMT-UHFFFAOYSA-N
+RN: 54283-18-0
+Related pages: Mass SDBS-MS2001-00439WA
+IR : KBr disc SDBS-IR-NIDA-45632
+IR : nujol mull SDBS-IR-NIDA-46949
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

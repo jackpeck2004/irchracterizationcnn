@@ -1,0 +1,22 @@
+Subtitle: S,S'-hexamethylene bis(2-naphthalenethiosulfonate)
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 34863
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=34863
+Molecular Formula: C26H26O4S4
+Molecular Weight: 530.7
+InChI: InChI=1S/C26H26O4S4/c27-33(28,25-15-13-21-9-3-5-11-23(21)19-25)31-17-7-1-2-8-18-32-34(29,30)26-16-14-22-10-4-6-12-24(22)20-26/h3-6,9-16,19-20H,1-2,7-8,17-18H2
+InChIKey: YGDZGVOHQWISFT-UHFFFAOYSA-N
+RN: 1855-04-5
+Related pages: Mass SDBS-MS-IW-4222
+IR : KBr disc SDBS-IR-NIDA-54523
+IR : nujol mull SDBS-IR-NIDA-69319
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

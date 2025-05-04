@@ -1,0 +1,22 @@
+Subtitle: 2-(1,3-benzodioxol-5-yl)-2-morpholinoacetonitrile
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 28791
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=28791
+Molecular Formula: C13H14N2O3
+Molecular Weight: 246.3
+InChI: InChI=1S/C13H14N2O3/c14-8-11(15-3-5-16-6-4-15)10-1-2-12-13(7-10)18-9-17-12/h1-2,7,11H,3-6,9H2
+InChIKey: JUDGQLZUYWJUAJ-UHFFFAOYSA-N
+RN: 37673-10-2
+Related pages: Mass SDBS-MS-IW-9571
+IR : nujol mull SDBS-IR-NIDA-41134
+IR : KBr disc SDBS-IR-NIDA-59464
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

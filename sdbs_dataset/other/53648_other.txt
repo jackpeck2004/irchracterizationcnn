@@ -1,0 +1,22 @@
+Subtitle: 1,2,3,4,5-pentaphenyl-1'-(di-tert-butylphosphino)ferrocene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 53648
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=53648
+Molecular Formula: C48H47FeP
+Molecular Weight: 710.7
+InChI: InChI=1S/C35H25.C13H22P.Fe/c1-6-16-26(17-7-1)31-32(27-18-8-2-9-19-27)34(29-22-12-4-13-23-29)35(30-24-14-5-15-25-30)33(31)28-20-10-3-11-21-28;1-12(2,3)14(13(4,5)6)11-9-7-8-10-11;/h1-25H;7-10H,1-6H3;
+InChIKey: YOQRDWPCPFCDLP-UHFFFAOYSA-N
+RN: 312959-24-3
+Related pages: Mass SDBS-MS2018-05507CM
+IR : KBr disk SDBS-IR2017-91402TM
+IR : Nujol SDBS-IR2017-91410TM
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2018-07-18
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

@@ -1,0 +1,24 @@
+Subtitle: 4'-methoxycarbonylbenzo-15-crown 5-ether
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 51505
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=51505
+Molecular Formula: C16H22O7
+Molecular Weight: 326.3
+InChI: InChI=1S/C16H22O7/c1-18-16(17)13-2-3-14-15(12-13)23-11-9-21-7-5-19-4-6-20-8-10-22-14/h2-3,12H,4-11H2,1H3
+InChIKey: PMGUUVHWCHSZKY-UHFFFAOYSA-N
+RN: 56683-56-8
+Related pages: Mass SDBS-MS2006-02998WA
+13C NMR SDBS-CR2006-01094NS
+1H NMR SDBS-HR2006-01094NS
+IR : Nujol SDBS-IR2012-89056TK
+IR : KBr disk SDBS-IR2012-89117TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2006-09-29
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

@@ -1,0 +1,22 @@
+Subtitle: N,N'-ethylenebis(N-ethylbenzamide)
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 35572
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=35572
+Molecular Formula: C20H24N2O2
+Molecular Weight: 324.4
+InChI: InChI=1S/C20H24N2O2/c1-3-21(19(23)17-11-7-5-8-12-17)15-16-22(4-2)20(24)18-13-9-6-10-14-18/h5-14H,3-4,15-16H2,1-2H3
+InChIKey: YHRJLFAAPKRCIK-UHFFFAOYSA-N
+RN: 82126-36-1
+Related pages: Mass SDBS-MS-IW-4882
+IR : KBr disc SDBS-IR-NIDA-55886
+IR : nujol mull SDBS-IR-NIDA-57340
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

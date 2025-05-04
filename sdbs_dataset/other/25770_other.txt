@@ -1,0 +1,21 @@
+Subtitle: 6beta-acetoxy-3beta-hydroxy-5alpha-androstane-17beta-carboxylic acid
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 25770
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=25770
+Molecular Formula: C22H34O5
+Molecular Weight: 378.5
+InChI: InChI=1S/C22H34O5/c1-12(23)27-19-11-14-15-4-5-17(20(25)26)21(15,2)9-7-16(14)22(3)8-6-13(24)10-18(19)22/h13-19,24H,4-11H2,1-3H3,(H,25,26)/t13-,14-,15-,16-,17+,18+,19+,21-,22+/m0/s1
+InChIKey: KMXCJDGMWKYVST-ZAAZJOJESA-N
+RN: 
+Related pages: IR : KBr disc SDBS-IR-NIDA-34208
+IR : nujol mull SDBS-IR-NIDA-73927
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

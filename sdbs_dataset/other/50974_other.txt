@@ -1,0 +1,24 @@
+Subtitle: phosphorous acid tris(2,4-di-tert-butylphenyl)ester
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 50974
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=50974
+Molecular Formula: C42H63O3P
+Molecular Weight: 646.9
+InChI: InChI=1S/C42H63O3P/c1-37(2,3)28-19-22-34(31(25-28)40(10,11)12)43-46(44-35-23-20-29(38(4,5)6)26-32(35)41(13,14)15)45-36-24-21-30(39(7,8)9)27-33(36)42(16,17)18/h19-27H,1-18H3
+InChIKey: JKIJEFPNVSHHEI-UHFFFAOYSA-N
+RN: 31570-04-4
+Related pages: Mass SDBS-MS2003-01428WA
+13C NMR SDBS-CR2003-00297TS
+1H NMR SDBS-HR2003-00297TS
+IR : Nujol SDBS-IR2003-82722TK
+IR : KBr disk SDBS-IR2003-82742TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2004-03-25
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

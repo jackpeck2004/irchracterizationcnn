@@ -1,0 +1,24 @@
+Subtitle: N-(4-(4-(amino(imino)methyl)phenoxy)butanoyl)-L-alpha-aspartyl-L-valine
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 45623
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=45623
+Molecular Formula: C20H28N4O7
+Molecular Weight: 436.5
+InChI: InChI=1S/C20H28N4O7/c1-11(2)17(20(29)30)24-19(28)14(10-16(26)27)23-15(25)4-3-9-31-13-7-5-12(6-8-13)18(21)22/h5-8,11,14,17H,3-4,9-10H2,1-2H3,(H3,21,22)(H,23,25)(H,24,28)(H,26,27)(H,29,30)/t14-,17-/m0/s1
+InChIKey: JFCXCBBSUORTNS-YOEHRIQHSA-N
+RN: 147865-49-4
+Related pages: Mass SDBS-MS2001-00786WA
+13C NMR SDBS-CR2001-00122TS
+1H NMR SDBS-HR2001-00122TS
+IR : Nujol SDBS-IR2006-85326TK
+IR : KBr disk SDBS-IR2006-85340TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2003-09-30
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

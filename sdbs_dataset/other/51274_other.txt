@@ -1,0 +1,25 @@
+Subtitle: 2,3-dichloro-6-methylquinoxaline
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 51274
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=51274
+Molecular Formula: C9H6Cl2N2
+Molecular Weight: 213.1
+InChI: InChI=1S/C9H6Cl2N2/c1-5-2-3-6-7(4-5)13-9(11)8(10)12-6/h2-4H,1H3
+InChIKey: UWSAFTDEEVGSAC-UHFFFAOYSA-N
+RN: 39267-05-5
+Related pages: Mass SDBS-MS2005-02677WA
+13C NMR SDBS-CR2005-00570NS
+13C NMR SDBS-CR2005-00742NS
+1H NMR SDBS-HR2005-00570NS
+1H NMR SDBS-HR2005-00742NS
+IR : Nujol SDBS-IR2008-84607TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2005-10-06
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

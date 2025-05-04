@@ -1,0 +1,22 @@
+Subtitle: 2,3,10,11-tetramethoxy-8-oxo-5,8-dihydro-6H-dibenzo(a,g)quinolizine-13-carbonitrile
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 30065
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=30065
+Molecular Formula: C22H20N2O5
+Molecular Weight: 392.4
+InChI: InChI=1S/C22H20N2O5/c1-26-17-7-12-5-6-24-21(13(12)8-18(17)27-2)16(11-23)14-9-19(28-3)20(29-4)10-15(14)22(24)25/h7-10H,5-6H2,1-4H3
+InChIKey: BMPCWQGMAUTEAF-UHFFFAOYSA-N
+RN: 21606-55-3
+Related pages: Mass SDBS-MS2003-01714WA
+IR : KBr disc SDBS-IR-NIDA-43738
+IR : nujol mull SDBS-IR-NIDA-44933
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

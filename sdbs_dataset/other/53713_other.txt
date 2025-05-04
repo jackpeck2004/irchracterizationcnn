@@ -1,0 +1,22 @@
+Subtitle: 2,7-bis(9H-carbazol-9-yl)-9,9-dimethylfluorene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 53713
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=53713
+Molecular Formula: C39H28N2
+Molecular Weight: 524.6
+InChI: 1S/C39H28N2/c1-39(2)33-23-25(40-35-15-7-3-11-29(35)30-12-4-8-16-36(30)40)19-21-27(33)28-22-20-26(24-34(28)39)41-37-17-9-5-13-31(37)32-14-6-10-18-38(32)41/h3-24H,1-2H3
+InChIKey: IEQGNDONCZPWMW-UHFFFAOYSA-N
+RN: 226958-06-1
+Related pages: Mass SDBS-MS2018-05552CM
+IR : Nujol SDBS-IR2018-91826TM
+IR : KBr disk SDBS-IR2018-91854TM
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2019-04-25
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

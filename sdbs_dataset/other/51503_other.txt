@@ -1,0 +1,21 @@
+Subtitle: 3-isoamyl-6-methyl-2-heptyl myristate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 51503
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=51503
+Molecular Formula: C27H54O2
+Molecular Weight: 410.7
+InChI: InChI=1S/C27H54O2/c1-7-8-9-10-11-12-13-14-15-16-17-18-27(28)29-25(6)26(21-19-23(2)3)22-20-24(4)5/h23-26H,7-22H2,1-6H3
+InChIKey: JHAGSLRTFDBCLA-UHFFFAOYSA-N
+RN: 88332-30-3
+Related pages: Mass SDBS-MS2006-02997WA
+IR : Liquid film SDBS-IR2006-85552TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2006-09-29
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

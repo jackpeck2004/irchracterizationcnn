@@ -1,0 +1,24 @@
+Subtitle: 1,3,5-tris(tert-butylthio)benzene
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 51290
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=51290
+Molecular Formula: C18H30S3
+Molecular Weight: 342.6
+InChI: InChI=1S/C18H30S3/c1-16(2,3)19-13-10-14(20-17(4,5)6)12-15(11-13)21-18(7,8)9/h10-12H,1-9H3
+InChIKey: ZIHOGUOAVUUMKB-UHFFFAOYSA-N
+RN: 260968-03-4
+Related pages: Mass SDBS-MS2005-02691WA
+13C NMR SDBS-CR2005-00764NS
+1H NMR SDBS-HR2005-00764NS
+IR : Nujol SDBS-IR2005-84957TK
+IR : KBr disk SDBS-IR2005-85065TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2005-10-06
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

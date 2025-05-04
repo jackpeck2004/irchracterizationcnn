@@ -1,0 +1,22 @@
+Subtitle: diethyl 2-diacetylamino-5-isopropyl-1,3-azulenedicarboxylate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 30472
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=30472
+Molecular Formula: C23H27NO6
+Molecular Weight: 413.5
+InChI: InChI=1S/C23H27NO6/c1-7-29-22(27)19-17-11-9-10-16(13(3)4)12-18(17)20(23(28)30-8-2)21(19)24(14(5)25)15(6)26/h9-13H,7-8H2,1-6H3
+InChIKey: GKKVZJUXHREKHS-UHFFFAOYSA-N
+RN: 
+Related pages: Mass SDBS-MS2001-00167WA
+IR : KBr disc SDBS-IR-NIDA-44597
+IR : nujol mull SDBS-IR-NIDA-45865
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

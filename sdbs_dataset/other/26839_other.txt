@@ -1,0 +1,21 @@
+Subtitle: 2-(2-hydroxyethyl)-3-methyl-4-(2-methyl-4-(3-phenylureido)-5-pyrimidinylmethyl)-6,8-diphenyl-1-thia-4,6,8-triazaspiro[4.4]non-2-ene-7,9-dione
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 26839
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=26839
+Molecular Formula: C33H31N7O4S
+Molecular Weight: 621.7
+InChI: InChI=1S/C33H31N7O4S/c1-22-28(18-19-41)45-33(30(42)39(26-14-8-4-9-15-26)32(44)40(33)27-16-10-5-11-17-27)38(22)21-24-20-34-23(2)35-29(24)37-31(43)36-25-12-6-3-7-13-25/h3-17,20,41H,18-19,21H2,1-2H3,(H2,34,35,36,37,43)
+InChIKey: BRVYBWOSSMOKND-UHFFFAOYSA-N
+RN: 21346-80-5
+Related pages: IR : nujol mull SDBS-IR-NIDA-36843
+IR : KBr disc SDBS-IR-NIDA-60099
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

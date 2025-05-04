@@ -1,0 +1,23 @@
+Subtitle: 4-amino-4'-cyanobiphenyl
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 50186
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=50186
+Molecular Formula: C13H10N2
+Molecular Weight: 194.2
+InChI: InChI=1S/C13H10N2/c14-9-10-1-3-11(4-2-10)12-5-7-13(15)8-6-12/h1-8H,15H2
+InChIKey: CPJQKNUJNWPAPH-UHFFFAOYSA-N
+RN: 4854-84-6
+Related pages: Mass SDBS-MS2004-02653WA
+1H NMR SDBS-HR2004-00461TS
+IR : Nujol SDBS-IR2014-90253TK
+IR : KBr disk SDBS-IR2014-90269TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2004-10-07
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

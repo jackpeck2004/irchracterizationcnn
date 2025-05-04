@@ -1,0 +1,21 @@
+Subtitle: N6-benzoyl-5'-O-(4,4'-dimethoxytrityl)-2'-deoxyadenosine
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 52138
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=52138
+Molecular Formula: C38H35N5O6
+Molecular Weight: 657.7
+InChI: InChI=1S/C38H35N5O6/c1-46-29-17-13-27(14-18-29)38(26-11-7-4-8-12-26,28-15-19-30(47-2)20-16-28)48-22-32-31(44)21-33(49-32)43-24-41-34-35(39-23-40-36(34)43)42-37(45)25-9-5-3-6-10-25/h3-20,23-24,31-33,44H,21-22H2,1-2H3,(H,39,40,42,45)/t31-,32+,33+/m0/s1
+InChIKey: LPICNYATEWGYHI-WIHCDAFUSA-N
+RN: 64325-78-6
+Related pages: Mass SDBS-MS2008-03741CW
+IR : Nujol SDBS-IR2008-86856TK
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 2008-09-30
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)

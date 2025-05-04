@@ -1,0 +1,22 @@
+Subtitle: 4-cholesten-3beta-yl nicotinate
+Type: Collection of Spectral data
+Subject: Chemical Compound
+SDBS No: 25540
+DOI: 
+URL: https://sdbs.db.aist.go.jp/CompoundLanding.aspx?sdbsno=25540
+Molecular Formula: C33H49NO2
+Molecular Weight: 491.7
+InChI: InChI=1S/C33H49NO2/c1-22(2)8-6-9-23(3)28-13-14-29-27-12-11-25-20-26(36-31(35)24-10-7-19-34-21-24)15-17-32(25,4)30(27)16-18-33(28,29)5/h7,10,19-23,26-30H,6,8-9,11-18H2,1-5H3/t23-,26+,27+,28-,29+,30+,32+,33-/m1/s1
+InChIKey: GODIKSDWVMARLX-ZWWVIQJBSA-N
+RN: 
+Related pages: Mass SDBS-MS2003-02071WA
+IR : KBr disc SDBS-IR-NIDA-33846
+IR : nujol mull SDBS-IR-NIDA-69812
+Publisher: National Institute of Advanced Industrial Science and Technology (AIST)
+Rights: AIST all rights reserved
+Date of Publication: 1999-03-31
+Disclaimer: We are doing our best to compile high quality databases. However, there are no such databases without any errors or mistakes. We make no warranties to those effects and shall not be liable for any damage that may result from errors in the database. You can check the page 
+ Known Errors of Mistakes in SDBS. When you find new errors or mistakes, please inform us using email (see this page for contact details).
+ Access to this database is free of charge. However we request visitors to our database not to download more than 50 spectra and/or compound information in one day. All accesses are recorded. It is prohibited that you use any information of SDBS for profit-making or commercial use without obtaining proper permission from us. If more spectra are required for some specific purpose or commercial use, you should consult us and describe the intended usage or purpose of our SDBS.
+We also request that when you use the data of our SDBS in your publication or presentation, a proper acknowledgement be given as follows:
+SDBSWeb : https://sdbs.db.aist.go.jp (National Institute of Advanced Industrial Science and Technology, date of access)
