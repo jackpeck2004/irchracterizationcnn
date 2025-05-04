@@ -37,8 +37,45 @@ To run entire project from scratch, the order of execution is:
         - Another .inchi file that keeps track of each InChi identifier for each compound
             * Stored inside {nist_inchi_path}/{nist_id}.inchi
     -> They then all get transformed to .csv datasets
-4. split_data.py2
+
+4. split_data.py
+    -> Loads .csv input and label datasets
+        - Renames columns to use integer indices
+    -> Encodes unique InChI identifiers as numerical IDs
+        - extracts InChI IDs from y_df[fgs] (functional group string column)
+        - maps them to integers and stores them in y[fgs+2] and x_df[602]
+            * honestly no clue why, there must be a better way to do this
+    -> Converts dataframes to NumPy arrays 
+        - output X and y
+    -> Splits data into test and training + validation sets (test set is 20% of the data)
+        - MultilabelStratifiedShuffleSplit (msss) used to +- evenly distribute functional groups across the split
+        - results in X_train_val, y_train_val, X_test, y_test
+    -> Splits train/validate 4-fold
+        - MultilabelStratifiedKFold used to generate four train/val splits
+        - stored as: X_train_1, y_train_1, X_val_1, y_val_1 (up to fold 4)
+    -> Sets find themselves in a .pickle (file)
+
 5. data_augmentation.py
+    -> Reads the .pickle
+        - Extracts X_train_1, y_train_1, X_val_1, y_val_1, X_test, y_test
+            * only fold 1 + test sets
+    -> Combines training and validation sets (X_train_val, y_train_val)
+        - these sets do not contain metadata columns; full versions kept as X/y_train_val_ids 
+    -> Creates subsets of training data for oversampling control  
+        - uses msss, extracts 25%, 50%, 75% & 100% of data from X/y_train_val
+            * Example key: y_train_val_25, X_train_val_100 etc.
+    -> Augmentation functions:
+        - horizontal_aug - pseudorandomly shifts the spectra left/right (+-1 to +-10 wavenumbers)
+            * Example key: X_train_val_h_50 (for the 50% training data set)
+        - vertical_aug - adds slight noise to the spectrum (+- 5% of y value) 
+            * Example key: y_train_val_v_75 
+        - linear_comb - combine 2 spectra of compounds with the same InChI ID using random weights (summing to 1)
+            * Input is X/y_train_val_ids
+		    * Example key: X_train_val_lc_100
+    -> Creates a data dictionary containing all augmented sets 
+		- Keys: X_train_val_25, X_train_val_h_50, X_train_val_v_75, X_train_val_lc_100, X_test
+		- same for y
+
 6. hyperparameter_optimization.py
 7. train_model.py
 8. train_weighted_model.py (switch environment2.yml)
